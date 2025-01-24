@@ -7,3 +7,6 @@ warnings
 numpy
 datetime
 sklearn
+fastapi
+uvicorn
+pydantic
