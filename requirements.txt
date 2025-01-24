@@ -1,12 +1,9 @@
 requests
-json
 matplotlib
 seaborn
 pandas
-warnings
 numpy
-datetime
-sklearn
+scikit-learn
 fastapi
 uvicorn
 pydantic
