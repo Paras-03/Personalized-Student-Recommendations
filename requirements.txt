@@ -6,3 +6,4 @@ pandas
 warnings
 numpy
 datetime
+sklearn
